@@ -1,0 +1,12 @@
+{
+  "url": "http://localhost:80",
+  "login": "test",
+  "password": "111111",
+  "engine": {
+    "name": "Stockfish 10 x64",
+    "options": {
+      "Threads": "4",
+      "Hash": "1024"
+    }
+  }
+}
